@@ -1,0 +1,74 @@
+Phase Systems:
+
+* Silithus: The Wound
+* Stormwind Gunship Pandaria Start Area (start quest https://www.wowhead.com/quest=29548)
+
+Other:
+
+* Bnet account achievement systems
+
+Quest:
+
+* Mardum: DemonHunter quest
+        -  DemonHunter intro
+		
+* Gilneas: Worgen zone chapter 1
+* Wandering Isle: pandaren quest
+* Gnomeregan: fixed start quest Gmone
+
+
+
+Battleground:
+
+* fix Warsong Gulch
+* fix Twin Peaks
+* fix Alterac Valley
+* fix Eye of the Storm
+* fix Arathi Basin
+
+Arena:
+
+* fix The Tiger's Peak
+* fix Tol'viron Arena
+
+LFG:
+
+* Implement Raid Browser
+
+Dungeon Cataclysm:
+
+* Grim Batol
+* Deadmines
+
+Spell Systems
+
+* implement SPELL_AURA_MOD_MELEE_DAMAGE_FROM_CASTER
+* implement SPELL_AURA_MOD_AUTOATTACK_DAMAGE
+* implement TARGET_UNIT_CASTER_PET (target_120)
+* fixed reset power Demon Hunter
+
+Other Spell system fix
+
+* Fix proc Surge of Light (should proc from any heal) -> https://www.wowhead.com/spell=114255/surge-of-light
+* Fixed Druids vehicle problem
+
+Class Spells
+  * Demon Hunter:
+    -- Glide (https://www.wowhead.com/spell=131347)
+   
+  * Monk:
+    -- Roll (https://www.wowhead.com/spell=109132)
+	-- Touch of Death (https://www.wowhead.com/spell=115080)
+	-- Invoke Xuen, the White Tiger (https://www.wowhead.com/spell=123904)
+	-- Whirling Dragon Punch (https://www.wowhead.com/spell=152175)
+    -- Lifecycles (https://www.wowhead.com/spell=197915)
+	-- Renewing Mist (https://www.wowhead.com/spell=119611)
+	-- Invoke Chi-Ji, the Red Crane (https://www.wowhead.com/spell=198664)
+	
+  * WarLock
+    -- Soul Link(https://www.wowhead.com/spell=108415)
+	
+Server Crashe
+
+* fixed 2 crashe server hunter spell
+* fixed crashe start location Undead
